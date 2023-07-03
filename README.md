@@ -1,3 +1,3 @@
-# Smart-Home-Products-Online-Store-Database-Oracle-SQL-Developer
+# Database and DataWarehousing - Smart Home Product Estore
 
 We have used Oracle SQL Server as our database management system to set up the database and perform querying. The business rules were utilized to draw the ER diagram in the ERP plus tool. Our comprehensive database design system efficiently manages customer, order, product, order item, and employee data for smart home technology companies. The system is designed to handle in-house and supplier-provided products, streamlining the supply chain and enabling informed decision-making for manufacturers, distributors, and retailers of smart home products. Our user-friendly interface ensures our customers can easily navigate the system and access the data they need to succeed in a rapidly evolving industry.

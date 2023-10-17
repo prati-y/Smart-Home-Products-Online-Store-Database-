@@ -18,4 +18,4 @@ The document in the repository overviews the complete database design and implem
 
 -Utilized ORDBMS features as required in the project.
 
-
+The document uploaded to this repository contains the Conceptual and logical Design and the SQL scripts used for this project.
